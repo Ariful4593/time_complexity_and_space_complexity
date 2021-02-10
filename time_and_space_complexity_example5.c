@@ -11,6 +11,7 @@ int main()
             }
         }
     }
+
     printf("n = %d, count = %d\n", n, count);
 
     return 0;
